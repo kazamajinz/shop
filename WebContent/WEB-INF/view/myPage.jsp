@@ -104,8 +104,8 @@
                <li><a href="${root }couponPage">쿠폰</a></li>
                <li><a href="#">관심상품</a></li>
                <li><a href="#">1:1문의</a></li>
-               <li><a href="#">회원정보수정</a></li>
-               <li><a href="#">회원탈퇴</a></li>
+               <li><a href="${root }infoModify">회원정보수정</a></li>
+               <li><a href="${root }infoModify">회원탈퇴</a></li>
 
             </ul>
          </div>
